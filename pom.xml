@@ -29,8 +29,8 @@
         <sonar.language>java</sonar.language>
         <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
         <sonar.login>561ef5e9370e70f19320114bae84a861361894ed</sonar.login>
-        <sonar.organization>projects1234</sonar.organization>
-        <sonar.projectKey>projects1234</sonar.projectKey>
+        <sonar.organization>ekart</sonar.organization>
+        <sonar.projectKey>ekart123</sonar.projectKey>
     </properties>
 
     <dependencies>
